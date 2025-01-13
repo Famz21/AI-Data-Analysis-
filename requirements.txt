@@ -1,0 +1,11 @@
+chainlit
+openai
+httpx
+plotly
+asyncio
+kaleido
+langchain
+python-dotenv
+langchain-community
+langchain-openai
+psycopg2
