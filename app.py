@@ -9,6 +9,7 @@ import os
 from utils import generate_sqlite_table_info_query
 from tools import tools_schema, run_sqlite_query, Chart_Agent
 from bot import ChatBot
+from chainlit import AudioChunk
 
 # Load environment variables from .env file
 load_dotenv("../.env")
@@ -103,7 +104,7 @@ async def on_message(message: cl.Message):
     await process_message(message.content)
 
 @cl.on_audio_chunk
-async def on_audio_chunk(chunk: cl.AudioChunk):
+async def on_audio_chunk(chunk: AudioChunk):
     print("Received audio chunk")
     try:
         if chunk.isStart:

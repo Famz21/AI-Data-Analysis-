@@ -66,7 +66,7 @@ AI DATA ANALYSIS LLM/
 
 1. **Run the application**:
    ```bash
-   python app.py
+   chainlit run app.py
    ```
 
 2. **Interact with the system**:
