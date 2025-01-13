@@ -116,7 +116,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## Contact 📧
 
-For any questions or feedback, please contact [your email address]. 📩
+For any questions or feedback, please contact [LinkedIn](https://www.linkedin.com/in/rithyvira/). 📩
 
 ---
 
