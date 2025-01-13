@@ -80,7 +80,7 @@ AI DATA ANALYSIS LLM/
 Here is a demo video showcasing the functionality of the AI Data Analysis LLM:
 
 
-![Demo Preview](demo/AI%20Data%20Analysis%20Demo.gif.gif)
+![Demo Preview](demo/AI%20Data%20Analysis%20Demo.gif)
 
 
 *You can download and view the video directly from the repository.*
