@@ -79,7 +79,9 @@ AI DATA ANALYSIS LLM/
 
 Here is a demo video showcasing the functionality of the AI Data Analysis LLM:
 
-https://github.com/Famz21/AI-Data-Analysis-/blob/main/demo/AI%20Data%20Analysis%20Demo.gif
+
+![Demo Preview](demo/AI%20Data%20Analysis%20Demo.gif.gif)
+
 
 *You can download and view the video directly from the repository.*
 
