@@ -22,7 +22,6 @@ The **AI Data Analysis LLM** project empowers business leaders, including CEOs a
 AI DATA ANALYSIS LLM/
 ├── venv/                   # Virtual environment 🐍
 ├── data/                   # Data files 📂
-├── public/                 # Public assets (e.g., images, stylesheets) 🌐
 ├── tmp/                    # Temporary files 🗑️
 ├── env/                    # Environment variables 🔧
 │   └── .env.sample         # Sample environment variables file 📄
@@ -66,7 +65,7 @@ AI DATA ANALYSIS LLM/
 
 1. **Run the application**:
    ```bash
-   python app.py
+   chainlit run app.py
    ```
 
 2. **Interact with the system**:
