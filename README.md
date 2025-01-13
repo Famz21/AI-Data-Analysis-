@@ -66,12 +66,22 @@ AI DATA ANALYSIS LLM/
 
 1. **Run the application**:
    ```bash
-   chainlit run app.py
+   python app.py
    ```
 
 2. **Interact with the system**:
    - Use natural language queries to generate SQL commands and visual insights. 🗣️➡️📊
    - Optionally, use voice commands to interact with the system. 🎤
+
+---
+
+## Demo Video 🎥
+
+Here is a demo video showcasing the functionality of the AI Data Analysis LLM:
+
+![Demo Video](demo/AI%20Data%20Analysis%20Demo.mp4)
+
+*You can download and view the video directly from the repository.*
 
 ---
 
