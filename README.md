@@ -4,6 +4,8 @@
 
 The **AI Data Analysis LLM** project empowers business leaders, including CEOs and non-technical users, to interact seamlessly with business data through simple, natural language queries. This solution automates SQL query generation, providing real-time visual insights without requiring technical expertise. Users can effortlessly convert voice commands into insightful charts and graphs, enabling quick, data-driven decision-making and enhancing business intelligence accessibility across all levels of the organization. 🚀
 
+Connect with our Telegram Bot: [AI Data Analysis Bot](@AiserAI_Bot) 🤖
+
 ---
 
 ## Features ✨
@@ -117,8 +119,6 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ## Contact 📧
 
 For any questions or feedback, please contact [LinkedIn](https://www.linkedin.com/in/rithyvira/). 📩
-
-Connect with our Telegram Bot: [AI Data Analysis Bot](@AiserAI_Bot) 🤖
 
 ---
 
