@@ -118,6 +118,8 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 For any questions or feedback, please contact [LinkedIn](https://www.linkedin.com/in/rithyvira/). 📩
 
+Connect with our Telegram Bot: [AI Data Analysis Bot](@AiserAI_Bot) 🤖
+
 ---
 
 This README provides an overview of the **AI Data Analysis LLM** project, including its features, installation instructions, and usage guidelines. It is designed to help users and contributors understand and utilize the project effectively. 🚀📊🤖
